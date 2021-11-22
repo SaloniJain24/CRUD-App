@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Saloni Jain",
+      "username": "salonijain11",
+      "email": "jsaloni14@gmail.com",
+      "phone": "1111122222",
+      "website": "CRUD App",
+      "id": 11
+    },
+    {
+      "name": "Samriddhi",
+      "username": "Samriddhi_15",
+      "email": "sam15@gmail.com",
+      "phone": "444455555",
+      "website": "https://www.google.com",
+      "id": 12
+    },
+    {
+      "name": "Siddh",
+      "username": "Siddh24",
+      "email": "siddh@gmail.com",
+      "phone": "2222255555",
+      "website": "https://javascript.com",
+      "id": 13
+    },
+    {
+      "name": "Ram",
+      "username": "Ram_45",
+      "email": "ram@gmail.com",
+      "phone": "3333322222",
+      "website": "https://www.facebook.com",
+      "id": 14
+    },
+    {
+      "name": "Rishi",
+      "username": "rishi45",
+      "email": "rishi71@gmail.com",
+      "phone": "1111144444",
+      "website": "https://www.google.com",
+      "id": 15
+    }
+  ]
+}
